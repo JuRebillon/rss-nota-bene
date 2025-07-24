@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Test Syndication Nota Bene</title>
+    <link>https://www.youtube.com/@NotaBene</link>
+    <description>Test d'article éditorialisé à partir d'une vidéo YouTube</description>
+    <language>fr</language>
+    <lastBuildDate>Thu, 25 Jul 2025 09:00:00 +0200</lastBuildDate>
+
+    <item>
+      <title>Ces inventeurs morts à cause de leurs propres créations</title>
+      <link>https://www.youtube.com/watch?v=zdASdqJmmF8</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=zdASdqJmmF8</guid>
+      <pubDate>Thu, 25 Jul 2025 09:00:00 +0200</pubDate>
+      <description><![CDATA[
+        <p><strong>Chapô :</strong> Le progrès a parfois un goût amer. À travers cinq histoires tragiques, cet article retrace le destin d'inventeurs brillants qui ont payé de leur vie le prix de leurs découvertes.</p>
+        <h2>Quand l’innovation devient fatale</h2>
+        <p>L’histoire regorge de génies incompris ou de visionnaires dont les inventions ont bouleversé le monde. Mais certains ont payé leur ingéniosité au prix fort...</p>
+        <h3>Marie Curie : l’éclat mortel du radium</h3>
+        <p>Scientifique de génie, double prix Nobel...</p>
+        <h3>John Godfrey Parry-Thomas : la course contre la mort</h3>
+        <p>Cet ingénieur britannique...</p>
+        <h3>Thomas Midgley Jr : l’homme qui a empoisonné la planète… et lui-même</h3>
+        <p>Génie de la chimie, Thomas Midgley...</p>
+        <h3>William Bullock : tué par son imprimerie</h3>
+        <p>Inventeur de la presse rotative à bobines...</p>
+        <h3>Franz Reichelt : le tailleur qui rêvait de voler</h3>
+        <p>Ce tailleur parisien développe une combinaison-parachute...</p>
+        <h2>Conclusion</h2>
+        <p>Ces histoires rappellent que l’innovation n’est pas sans risques...</p>
+      ]]></description>
+      <media:content url="https://img.youtube.com/vi/zdASdqJmmF8/maxresdefault.jpg" type="image/jpeg" medium="image" />
+    </item>
+  </channel>
+</rss>
