@@ -5,13 +5,13 @@
     <link>https://www.youtube.com/@NotaBene</link>
     <description>Test d'article éditorialisé à partir d'une vidéo YouTube</description>
     <language>fr</language>
-    <lastBuildDate>Thu, 25 Jul 2025 09:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jul 2025 09:00:00 +0200</lastBuildDate>
 
     <item>
       <title>Ces inventeurs morts à cause de leurs propres créations</title>
       <link>https://www.youtube.com/watch?v=zdASdqJmmF8</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=zdASdqJmmF8</guid>
-      <pubDate>Thu, 25 Jul 2025 09:00:00 +0200</pubDate>
+      <pubDate>Thu, 26 Jul 2025 09:00:00 +0200</pubDate>
       <description><![CDATA[
         <p><strong>Chapô :</strong> Le progrès a parfois un goût amer. À travers cinq histoires tragiques, cet article retrace le destin d'inventeurs brillants qui ont payé de leur vie le prix de leurs découvertes.</p>
 
@@ -36,7 +36,7 @@
         <h2>Conclusion</h2>
         <p>Ces histoires rappellent que l’innovation, si elle fait avancer l’humanité, n’est pas sans risques pour ses pionniers. Entre audace et tragédie, ces inventeurs ont inscrit leur nom dans l’histoire... parfois dans la douleur.</p>
       ]]></description>
-      <media:content url="https://img.youtube.com/vi/zdASdqJmmF8/maxresdefault.jpg" type="image/jpeg" medium="image" />
+      <media:content url="https://www.babelio.com/users/blobid1642766069826.jpg" type="image/jpeg" medium="image" />
     </item>
   </channel>
 </rss>
